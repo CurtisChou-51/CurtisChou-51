@@ -7,8 +7,8 @@
 ### <div align="center">⚙️ GitHub Profile Stats </div>
 
 <div dir="auto" style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="180em" style="width: 45%; box-sizing: border-box;" src="https://github-readme-stats.vercel.app/api?username=CurtisChou-51&rank_icon=github&hide_border=true&title_color=00abf0&show_icons=true" />
-  <img height="180em" style="width: 45%; box-sizing: border-box;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurtisChou-51&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5" />
+  <img style="width: 45%; box-sizing: border-box;" src="https://raw.githubusercontent.com/CurtisChou-51/github-stats/output/overview.svg" />
+  <img style="width: 45%; box-sizing: border-box;" src="https://raw.githubusercontent.com/CurtisChou-51/github-stats/output/languages.svg" />
 </div>
 <div dir="auto" style="display: flex; justify-content: space-between; align-items: center;">
   <img style="width: 90%; box-sizing: border-box;" src="https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg" />
